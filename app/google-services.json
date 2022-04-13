@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395201045963",
+    "project_id": "park-n-go-c3b47",
+    "storage_bucket": "park-n-go-c3b47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395201045963:android:6b7aa7bc3298da4794824e",
+        "android_client_info": {
+          "package_name": "com.parkngo.parkngo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395201045963-91fjvc85dqc3v6n64t1ifpkurt6bhh79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq7R-1rTd8QWXyLxjkIA6RGrq1Ggijn50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395201045963-91fjvc85dqc3v6n64t1ifpkurt6bhh79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
